@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="label_home_temperature_title">Temperature</string>
+    <string name="label_home_humidity_title">Humidity</string>
+    <string name="label_home_humidity_unit">%</string>
+    <string name="label_feel_like">Feel like</string>
+    <string name="label_view_whole_day">View whole day</string>
+    <string name="label_submit">Submit</string>
+    <string name="label_enter_your_location">Enter your location</string>
+</resources>
